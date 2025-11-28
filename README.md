@@ -1,0 +1,7 @@
+### Bright Pawn Model
+
+
+
+
+
+#### Hypothesis
