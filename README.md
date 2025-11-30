@@ -1,7 +1,3 @@
 ### Bright Pawn Model
 
-
-
-
-
-#### Hypothesis
+> A Simple Crypto Model
