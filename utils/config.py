@@ -1,0 +1,2 @@
+
+UNIVERSE = ["BTC/USD", "ETH/USD"]
